@@ -7,6 +7,10 @@ public class Triangle {
     int area;
     int perimeter;
 
+    public Triangle(int i, int i1, int i2) {
+
+    }
+
 
     public int getArea() {
         int s = perimeter/2;
